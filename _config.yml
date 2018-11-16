@@ -3,8 +3,8 @@ title: Myko
 subtitle: design
 email: mykolas.tikuisis@gmail.com
 description: Mykolas portfolio
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: https://myko.design/
+baseurl: "https://myko.design/" # the subpath of your site, e.g. /blog
+url: 
 author:
 street_address: 1234 Somewhere Road
 city: Nashville
