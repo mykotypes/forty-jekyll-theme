@@ -1,8 +1,8 @@
 # site settings
-title: Forty
+title: Myko.design
 subtitle: Mykolas
 email: mykolas.tikuisis@gmail.com
-description: hello
+description: Mykolas portfolio
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
